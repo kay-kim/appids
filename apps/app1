@@ -4,9 +4,9 @@
   ],
   "client_id": "https://kay-kim.github.io/appids/apps/app1",
   "client_name": "KaysTestApp",
-  "client_uri": "https://localhost:3000/index.html",
+  "client_uri": "https://localhost:3000/start",
   "redirect_uris": [
-       "https://localhost:3000/index.html",
+       "https://localhost:3000/start",
   ],
   "grant_types": [
     "authorization_code",
