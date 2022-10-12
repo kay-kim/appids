@@ -6,7 +6,7 @@
   "client_name": "KaysTestApp",
   "client_uri": "https://localhost:3000/",
   "redirect_uris": [
-       "https://localhost:3000/start","https://localhost:3000"
+       "https://localhost:3000/start","https://localhost:3000/"
   ],
   "grant_types": [
     "authorization_code",
