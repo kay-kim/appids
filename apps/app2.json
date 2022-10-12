@@ -2,7 +2,7 @@
   "@context": [
     "https://www.w3.org/ns/solid/oidc-context.jsonld"
   ],
-  "client_id": "https://kay-kim.github.io/appids/apps/app2",
+  "client_id": "https://kay-kim.github.io/appids/apps/app2.json",
   "client_name": "KaysTestApp",
   "client_uri": "https://localhost:3000/",
   "redirect_uris": [
