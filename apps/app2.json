@@ -14,9 +14,9 @@
   ],
   "scope": "openid webid offline_access",
   "token_endpoint_auth_method": "none",
-  "logo_uri": "",
-  "tos_uri": "",
-  "policy_uri": "",
+  "logo_uri": "https://github.com/kay-kim/appids/blob/main/homer-wfh.png",
+  "tos_uri": "https://example.com/termsOfService",
+  "policy_uri": "https://example.com/policy",
   "contacts": [
     ""
   ],
