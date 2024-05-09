@@ -4,9 +4,9 @@
   ],
   "client_id": "https://kay-kim.github.io/appids/apps/app1.json",
   "client_name": "My Example App",
-  "client_uri": "http://localhost:8080/",
+  "client_uri": "https://localhost:3000/",
   "redirect_uris": [
-       "http://localhost:8080/"
+       "https://localhost:3000/"
   ],
   "grant_types": [
     "authorization_code",
@@ -17,7 +17,9 @@
   "logo_uri": "https://kay-kim.github.io/appids/homer-wfh.png",
   "tos_uri": "https://example.com/termsOfService",
   "policy_uri": "https://example.com/policy",
-  "contacts": [ "" ],
+  "contacts": [
+    ""
+  ],
   "application_type": "web",
   "require_auth_time": false
 }
